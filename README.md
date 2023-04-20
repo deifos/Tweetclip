@@ -1,5 +1,8 @@
 # Tweetclip
-Take screenshots of tweets for easy pasting them sowhere else.
+Take screenshots of tweets for easy pasting them somewhere else. 
+Chrome extension is included for easy use, just load the extension, right click on any twitter link "summon twittclip" and after a few second the image will show up on the extension popup. Make sure to point the extension to whetever you deploy the endpoint.
+
+When using the extension make sure to set the proper permissions on "hosts_permissions" or it will give you cors errors.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
