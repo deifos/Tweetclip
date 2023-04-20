@@ -25,7 +25,7 @@ function summonTwittclip(info, tab) {
 
             const options = {
                 type: 'basic',
-                iconUrl: 'images/get_started16.png',
+                iconUrl: 'images/38x38.png',
                 title: 'TweetClip is ready',
                 message: 'Please open the pop up on the top bar to see the image',
             }
