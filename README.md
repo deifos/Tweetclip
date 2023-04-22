@@ -4,6 +4,9 @@ Chrome extension is included for easy use, just load the extension, right click 
 
 When using the extension make sure to set the proper permissions on "hosts_permissions" or it will give you cors errors.
 
+#NOTE
+If you have a free vercel account the endpoint wont run there.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
