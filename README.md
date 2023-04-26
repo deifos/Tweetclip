@@ -4,7 +4,6 @@ Chrome extension is included for easy use, just load the extension, right click 
 
 When using the extension make sure to set the proper permissions on "hosts_permissions" or it will give you cors errors.
 
-![hero](public/tweetclip.mp4)
 
 #NOTE
 If you have a free vercel account the endpoint wont run there.
